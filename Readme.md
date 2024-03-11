@@ -28,7 +28,7 @@ Before running the application, make sure you have:
     service.setMode(SdkMode.POLLING);
     ```
 
-6. Run the `main` method in the `WeatherServiceMain` class.
+6. Run the `main` method in the `Main` class.
 
 ```java
 public static void main(String[] args) {
